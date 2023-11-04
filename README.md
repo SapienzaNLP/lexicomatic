@@ -6,6 +6,7 @@ Our paper is available at the following link:
 
 If you find our work useful, please cite us in the following way:
 
+```
 @inproceedings{martelli2023lexicomatic,
   title={LexicoMatic: Automatic Creation of Multilingual Lexical-Semantic Dictionaries},
   author={Martelli, Federico and Procopio, Luigi and Barba, Edoardo and Navigli, Roberto},
@@ -14,6 +15,7 @@ the Asia-Pacific Chapter of the Association for Computational Linguistics},
   pages={820–833},
   year={2023}
 }
+```
 
 # License
 
