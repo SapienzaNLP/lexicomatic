@@ -1,8 +1,6 @@
 # LexicoMatic: Automatic Creation of Multilingual Lexical-Semantic Dictionaries
 
-LexicoMatic is a state-of-the-art approach to the automatic creation of multilingual dictionaries. LexicoMatic leverages definition-selection WSD and label projection via word alignment to construct and expand dictionaries in new languages.
-
-Our paper is available at the following link: 
+[LexicoMatic] (https://www.researchgate.net/publication/375289230_LexicoMatic_Automatic_Creation_of_Multilingual_Lexical-Semantic_Dictionaries) is a state-of-the-art approach to the automatic creation of multilingual dictionaries. LexicoMatic leverages definition-selection WSD and label projection via word alignment to construct and expand dictionaries in new languages.
 
 If you find our work useful, please cite us in the following way:
 
